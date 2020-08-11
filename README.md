@@ -1,1 +1,3 @@
-# bin2dec
+# Bin2Dec
+
+Binary-to-Decimal number converter with java
